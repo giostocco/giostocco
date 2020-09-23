@@ -1,4 +1,4 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Giovanni Stocco's GitHub.</h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Stocco GitHub.</h2>
 
 
 [![Giostocco github stats](https://github-readme-stats.vercel.app/api?username=giostocco)](https://github.com/giostocco)
